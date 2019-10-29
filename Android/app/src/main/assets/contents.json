@@ -27,7 +27,11 @@
         },
         {
           "image_file": "het.webp"
+        },
+        {
+          "image_file":  "dog.webp"
         }
+
       ]
     }
   ]
