@@ -3,12 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "1",
+      "identifier": "430am6666",
       "name": "heh-heh",
       "publisher": "430am",
       "tray_image_file": "tray.png",
-      "image_data_version":"2",
-      "avoid_cache":false,
+      "image_data_version":"4",
+      "avoid_cache":true,
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -23,38 +23,56 @@
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "dead.webp"
+          "image_file": "dead.webp",
+          "emojis": ["😱","😵"]
         },
         {
-          "image_file": "het.webp"
+          "image_file": "het.webp",
+          "emojis": ["🤔","😐"]
         },
         {
-          "image_file":  "dog.webp"
+          "image_file": "dog.webp",
+          "emojis": ["🌈","😜"]
         },
         {
-          "image_file": "ruuvi.webp"
+          "image_file": "ruuvi.webp",
+          "emojis": ["💻","😩"]
         },
         {
-          "image_file": "box.webp"
+          "image_file": "box.webp",
+          "emojis": ["😡","😤"]
         },
         {
-          "image_file": "frog.webp"
+          "image_file": "frog.webp",
+          "emojis": ["😩","😨"]
         },
         {
-          "image_file": "evropa.webp"
+          "image_file": "evropa.webp",
+          "emojis": ["💻","🌃"]
         },
         {
-          "image_file": "r2.webp"
+          "image_file": "r2.webp",
+          "emojis": [
+            "🎉",
+            "✨"
+          ]
         },
         {
-          "image_file": "arvasin.webp"
+          "image_file": "joke_48.webp",
+          "emojis": ["🖐","🙋"]
         },
         {
-          "image_file": "joke.webp"
+          "image_file": "saipa.webp",
+           "emojis": ["🖐","👋"]
         },
         {
-          "image_file": "saipa.webp"
+          "image_file": "arvasin.webp",
+          "emojis": [
+            "🤮",
+            "👎"
+          ]
         }
+
       ]
     }
   ]
