@@ -8,7 +8,7 @@
       "publisher": "430am",
       "tray_image_file": "tray.png",
       "image_data_version":"4",
-      "avoid_cache":true,
+      "avoid_cache":false,
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -70,6 +70,30 @@
           "emojis": [
             "🤮",
             "👎"
+          ]
+        },
+        {
+          "image_file": "arvo.webp",
+          "emojis": [
+            "😌"
+          ]
+        },
+        {
+          "image_file": "kilju.webp",
+          "emojis": [
+            "😌"
+          ]
+        },
+        {
+          "image_file": "liikaa.webp",
+          "emojis": [
+            "😌"
+          ]
+        },
+        {
+          "image_file": "murtunut.webp",
+          "emojis": [
+            "😌"
           ]
         }
 
